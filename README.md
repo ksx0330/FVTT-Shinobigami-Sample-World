@@ -3,6 +3,15 @@
 세팅이 귀찮은 분들을 위해 제작.
 공식에 업로드할 생각 없습니다.
 
+## 설치 방법
+아래의 URL을 매니페스트 URL에 붙여넣기
+
+시노비가미 시스템 - 시스템 설치에 붙여넣기
+> https://raw.githubusercontent.com/ksx0330/FVTT-Shinobigami-System/master/system.json
+
+샘플 월드 - 월드 설치에 붙여넣기
+> https://raw.githubusercontent.com/ksx0330/FVTT-Shinobigami-Sample-World/main/world.json
+
 
 ## 특이한 기능
 ### Advanced Macro를 활용한 매크로. 
@@ -28,17 +37,6 @@
 이후, Secret 버튼을 클릭하여 비밀을 볼 수 있다.
 
 > 이 때, Set Secret 버튼은 GM밖에 보이지 않으며, Secret을 통해 비밀을 조회할 때 권한이 Observer 이상일 경우에만 조회할 수 있다.
-
-
-## 설치 방법
-아래의 URL을 매니페스트 URL에 붙여넣기
-
-
-시노비가미 시스템 - 시스템 설치에 붙여넣기
-> https://raw.githubusercontent.com/ksx0330/FVTT-Shinobigami-System/master/system.json
-
-샘플 월드 - 월드 설치에 붙여넣기
-> https://raw.githubusercontent.com/ksx0330/FVTT-Shinobigami-Sample-World/main/world.json
 
 
 ## 기본 이미지
