@@ -12,6 +12,8 @@
 
 <code>/특기 검술</code>
 
+![image](https://user-images.githubusercontent.com/15700174/133090672-dabbc3b5-b8cf-4ef7-88ff-65066b85e393.png)
+
 ### 비밀 설정 및 조회 기능
 각 저널의 상위에는 Secret과 Set Secret 버튼이 있다. 이를 활용하면 각 핸드아웃에 비밀을 설정할 수 있다.
 
