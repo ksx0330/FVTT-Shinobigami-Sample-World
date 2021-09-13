@@ -18,10 +18,13 @@ Advanced Macro를 활용한 매크로.
 ## 설치 방법
 아래의 URL을 매니페스트 URL에 붙여넣기
 
+
 시노비가미 시스템 - 시스템 설치에 붙여넣기
+
 https://raw.githubusercontent.com/ksx0330/FVTT-Shinobigami-System/master/system.json
 
 샘플 월드 - 월드 설치에 붙여넣기
+
 https://raw.githubusercontent.com/ksx0330/FVTT-Shinobigami-Sample-World/main/world.json
 
 
