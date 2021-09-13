@@ -13,8 +13,16 @@
 > https://raw.githubusercontent.com/ksx0330/FVTT-Shinobigami-Sample-World/main/world.json
 
 
-## 특이한 기능
-### Advanced Macro를 활용한 매크로. 
+## 특징
+### 데이터 추가
+아이템 - 둔갑부, 병량환, 신통환
+
+저널 - 핸드아웃 및 비밀 기본 템플릿
+
+굴림표 - 감정표, 변조표, 장면표, 전장표, 펌블표
+<hr>
+
+### Advanced Macro를 활용한 매크로. (월드 기능)
 채팅 창에 아래와 같이 치면 해당하는 롤을 자동으로 굴릴 수 있게 채팅창이 나온다.
 
 <code>/특기 [특기명]</code>
@@ -22,8 +30,9 @@
 <code>/특기 검술</code>
 
 ![image](https://user-images.githubusercontent.com/15700174/133090672-dabbc3b5-b8cf-4ef7-88ff-65066b85e393.png)
+<hr>
 
-### 비밀 설정 및 조회 기능
+### 비밀 설정 및 조회 기능 (시스템 기능)
 각 저널의 상위에는 Secret과 Set Secret 버튼이 있다. 이를 활용하면 각 핸드아웃에 비밀을 설정할 수 있다.
 
 ![image](https://user-images.githubusercontent.com/15700174/133089938-c2926d9f-34d4-4b94-8160-57595b30339f.png)
@@ -37,6 +46,7 @@
 이후, Secret 버튼을 클릭하여 비밀을 볼 수 있다.
 
 > 이 때, Set Secret 버튼은 GM밖에 보이지 않으며, Secret을 통해 비밀을 조회할 때 권한이 Observer 이상일 경우에만 조회할 수 있다.
+<hr>
 
 
 ## 기본 이미지
